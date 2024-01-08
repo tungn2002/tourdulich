@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "540354971458",
+    "project_id": "tourdulich-7c0f2",
+    "storage_bucket": "tourdulich-7c0f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540354971458:android:9db0a2b221972f8013aadb",
+        "android_client_info": {
+          "package_name": "com.example.tourdulich"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-ZSHpN9OgTIm_qv-quj_zu2cwb1g2e5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
